@@ -1,4 +1,6 @@
 # OPEN COLLABORATIVE MONOGRAPH: MODULAR "3-IN-1" ENERGY-BIOSYNTHETIC SYSTEMS
+[![DOI](https://zenodo.org)](https://doi.org)
+
 **Release v0.1 — Open Standard Manifesto & Constitutional Governance Charter**
 
 * **Founding Lead System Architect & Scientific Editor (Bootstrap Mandate):** Dmitrii Kruten (Chișinău, Republic of Moldova)
