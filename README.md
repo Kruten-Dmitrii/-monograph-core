@@ -55,30 +55,21 @@ To guarantee institutional integrity, zero conflict of interest, and protection 
 6. **Honorary Board Members (Fixed-Term, Non-Voting):** Distinguished academics, policy leaders, and top science communicators may be appointed as Honorary Members for a **fixed 1-year term** (renewable). They contribute strategic advice and public oversight without administrative workload and **hold no voting rights** on financial disbursements.
 7. **Anti-Ghosting Safeguard:** Any voting Board member who misses three consecutive open roll-call votes without prior notice is automatically placed on inactive status, triggering a replacement nomination so decision-making is never stalled.
 8. **Conflict-of-Interest (COI) Recusal:** If a laboratory or vendor affiliated with a Board member bids on a milestone, that member must publicly disclose the conflict prior to deliberation and recuse themselves from the vote.
+9. ### 3.3. Shared Work Philosophy, 4-Vector Co-Curatorship & Three-Tier Platform Architecture
+The monograph is structured around collaborative principles, including performance-based contributions, four-vector domain co-curatorship (Science, Manufacturing, Media, Finance/Grants) with an anti-stall rule, a two-tier zero-barrier factory and lab onboarding process (Fast-Track MVP), and a three-tier community funnel (Public Media, Engineering/Academic Forum, and Academic Vault with Zenodo DOI).
 
-### 3.3. Digital-Only Operation & Official Administrative Ledger
-* **Zero-Travel / 100% Remote Operation:** The Board operates exclusively as a distributed digital body. Spending project funds on in-person summits, travel, or hospitality is strictly prohibited.
-* **Open Deliberations & Recorded Conferences:** All preliminary discussions take place in public repository threads (**GitHub Discussions / Open Collective**). Live video or voice conferences are convened when needed, and full recordings/transcripts are published openly within **48 hours**.
-• Asynchronous On-Record Ballots: Official decisions are executed via verified digital roll-call voting (with a 72-hour voting window across global time zones), logging each member's verified account and binary vote ("For" or "Against" only, no abstentions).
-• Two-Repository GitHub Architecture + Open Collective: Project records are split into two public GitHub repositories: -monograph-core (scientific chapters, engineering specs, and RFCs) and governance-ledger (immutable cryptographic log of Board rosters, "Top-100 / Top-100" electoral rankings, 72-hour roll-call ballots, conference recordings, and Scope → Invoice → Raw Data audit chains), mirrored with real-time financial accounting on Open Collective.
+### 3.4. Digital-Only Operation & Official Administrative Ledger
+Operations are 100% remote with zero-travel policies, public open deliberations and recorded conferences, asynchronous on-record roll-call ballots, and a two-repository GitHub architecture mirrored on Open Collective.
 
-4. Humanitarian Transfer, Reinvestment, Own Infrastructure & Founder Sunset ($1B Milestone)
+---
 
-• Free Deployment via Humanitarian & Environmental Organizations: All validated blueprints, designs, and protocols are transferred free of charge to humanitarian organizations, relief missions, donor agencies, and environmental initiatives for direct deployment in impoverished and arid regions (clean water, irrigation, and food in Africa and Asia) as well as atmospheric CO₂ capture and land reclamation projects.
-• Dynamic Fund Allocation by the Oversight Board (R&D / Ecology / Charity): All commercial proceeds generated post-deployment (B2B industrial adaptation and royalties) are accumulated under the custody of the Oversight & Treasury Board with zero administrative salaries. The Board determines by open roll-call vote the exact percentage allocation of these funds across three core pillars:
-	1. Advancing next-generation scientific R&D;
-	2. Environmental & climate programs (direct atmospheric CO₂ capture and large-scale land terraforming);
-	3. Humanitarian & charitable deployments (clean water, off-grid energy, and food security for vulnerable communities).
-• Establishment of Project-Owned R&D Centers, Manufacturing & Water Purification Facilities: As project reserves grow through commercial adoption and royalties, the Oversight Board may authorize via open roll-call vote the deployment of project-owned distributed infrastructure: (1) Open R&D Centers & Field Proving Grounds, (2) Distributed Manufacturing Lines (film co-extrusion and panel assembly at raw-material cost), and (3) Regional Water Desalination & Purification Stations deployed directly inside drought-stricken communities as public-benefit commons.
-• Operational Integrity (Quality Seal, BSL-1 Biosafety & Local Hubs):
-	• Verification Seal: While blueprints are free under CC BY 4.0, the official "3-in-1 Open Standard Verified" quality mark is granted free of charge by the Board only to hardware passing open bench-test checklists.
-	• Biosafety & Peaceful Use: All biological protocols are strictly restricted to non-pathogenic Biosafety Level 1 (BSL-1) organisms and dedicated exclusively to peaceful, civilian, ecological, and humanitarian applications.
-	• Regional Localization Hubs: Local universities and NGOs are invited to publish localized Bills of Materials adapted to regional polymers, water chemistry, and climate conditions.
-• Defensive Publication, Continuity & Founder Sunset Clause ($1B Milestone):
-	• All Zenodo releases serve as formal Defensive Publications (Prior Art) blocking restrictive third-party patents on core systems. The Architect may appoint a temporary Deputy; in the event of unresponsiveness exceeding 90 days, editorial authority temporarily vests in the council of lead chapter editors.
-	• Founder Sunset Clause: The office of Lead System Architect (and any appointed Deputy) is strictly a transitional bootstrapping mandate. Once the technology achieves global industrial adoption and cumulative royalty and commercial impact reserves held under the Board's custody for R&D and terraforming reach $1,000,000,000 USD (one billion US dollars), the office of the Lead System Architect and Deputy is permanently dissolved. The founder (Dmitrii Kruten) steps down completely from all editorial and governance duties, remaining credited solely as Founding Architect (v0.1), and the standard operates as a 100% self-governing global commons.
+## 4. Humanitarian Transfer, Reinvestment, Own Infrastructure & Founder Sunset ($1B Milestone)
+Outlines protocols for free humanitarian technology deployment, dynamic fund allocation by the Oversight Board (R&D, ecology, charity), establishment of project-owned R&D and manufacturing facilities, BSL-1 biosafety and regional localization, and defensive publications with a Founder Sunset Clause at the $1 billion milestone.
 
-5. Open Call for Contributors & Board Nominations
+---
 
-All positions across our chapter working groups (Chapters 1–9) and the Oversight & Treasury Board (Voting Members and Fixed-Term Honorary Advisors) are open to qualified scientists, engineers, media creators, policy makers, environmental advocates, and philanthropic partners worldwide.
-• To join a working group, nominate a Board candidate, or submit a Chapter RFC: Open an issue/pull request in -monograph-core on GitHub or contact Dmitrii Kruten directly at krutendmitrii@gmail.com.
+## 5. Open Call for Contributors, Curators & Board Nominations
+An open invitation for global researchers, factories, engineers, and partners to join working groups, nominate board candidates, or submit Chapter RFCs via GitHub or direct email contact.
+
+
+date, or submit a Chapter RFC: Open an issue/pull request in -monograph-core on GitHub or contact Dmitrii Kruten directly at krutendmitrii@gmail.com.
